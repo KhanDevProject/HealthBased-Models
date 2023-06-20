@@ -2,7 +2,7 @@
 
 → Machine learning model develop through Python and several modules 
 
--> DESIGN OF A MACHINE LEARNING BASED MODEL TO TRANSLATE FOR APHASIA AND/OR ALZHEIMER’S DISEASES
+→ DESIGN OF A MACHINE LEARNING BASED MODEL TO TRANSLATE FOR APHASIA AND/OR ALZHEIMER’S DISEASES
 
 → Purpose: To develop a machine learning-based method to early diagnose dementia using the dataset obtained from OASIS. 
 Classification algorithms such as GaussianNB, K-Nearest Neighbors, Random Forest, XGBoost, LGBMClassifier, CatBoost, and GradientBoosting are used to find accuracy, recall, precision and confusion matrix. 
