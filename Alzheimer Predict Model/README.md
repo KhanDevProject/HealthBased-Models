@@ -1,5 +1,11 @@
 # Classification Model: Alzheimer Prediction 
+To run the program(s):
+* Download the repo
+* Ensure you have `python 2 or 3` as well as `pickle`, `streamlit`, `numpy` installed
+* Run streamlit DeployApp.py 
+* Enjoy!
 
+# About the Application 
 → Machine learning model develop through Python and several modules 
 
 → DESIGN OF A MACHINE LEARNING BASED MODEL TO TRANSLATE FOR APHASIA AND/OR ALZHEIMER’S DISEASES
