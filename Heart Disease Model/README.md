@@ -2,7 +2,7 @@
 To run the program(s):
 * Download the repo
 * Ensure you have `python 2 or 3` as well as `pickle`, `streamlit`, `numpy` installed
-* Run streamlit DeployApp.py
+* Run `streamlit DeployApp.py`
 * Enjoy!
 
 # About the Application
