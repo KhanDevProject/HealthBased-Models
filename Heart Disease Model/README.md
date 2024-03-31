@@ -1,5 +1,11 @@
 # Classification Model: Heart Disease Prediction ( Nondefective heart, Defective Heart )      
+To run the program(s):
+* Download the repo
+* Ensure you have `python 2 or 3` as well as `pickle`, `streamlit`, `numpy` installed
+* Run streamlit DeployApp.py
+* Enjoy!
 
+# About the Application
 → Machine Learning model focused on real-time prediction of heart disease based on a real-time data
 
 → It uses a variety of features, including age, gender, blood pressure, cholesterol levels, and other medical indicators, to classify the heart condition into two categories: **Nondefective heart** and **Defective heart**
